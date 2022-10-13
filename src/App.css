@@ -1,0 +1,14 @@
+h1 {
+    margin: 0;
+    padding: 15px;
+    box-sizing: border-box;
+    white-space: nowrap;
+    border: 1px solid rgba(128, 128, 128, 0.475);
+    border-radius: 5px;
+    cursor: move;
+}
+
+h1:active {
+    color: red;
+}
+
